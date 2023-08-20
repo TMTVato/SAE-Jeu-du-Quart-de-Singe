@@ -7,14 +7,14 @@ l’Université Rives-de-Seine en formation BUT Informatique, par
 les étudiants de 1er année (2022-2023) John LI et Nassim BEN
 DAALI, Groupe 105.
 
-<p>Objectif</p>
+<h2>Objectif</h2>
 L’objectif de ce projet consistait à développer un logiciel
 permettant à un ensemble de joueurs de disputer une partie de
 quart de singe. L’application doit veiller au respect des règles
 du jeu et gérer la totalité du déroulement de la partie jusqu'à
 l’annonce du perdant tout en respectant un cahier des charges.
 
-<p>Fonctions</p>
+<h2>Fonctions</h2>
 Les fonctions à prendre en compte vont permettre de définir et
 initialiser la structure du jeu, du dictionnaire, des joueurs avec
 leurs attributs spécifiques. Ainsi, les joueurs ont accès à
